@@ -1,0 +1,39 @@
+.kaffe {
+  color: rgb(0, 0, 0);
+}
+
+.kaffe > button {
+  background-color: #757575;
+  border: solid Black;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  font-size: 16px;
+  margin: 4px 2px;
+  opacity: 0.6;
+  transition: 0.3s;
+  display: inline-block;
+  text-decoration: none;
+  cursor: pointer;
+}
+.kaffe:hover {
+  opacity: 1;
+}
+.back > button {
+  background-color: #757575;
+  color: white;
+}
+.kattla > button {
+  background-color: #757575;
+  border: solid Black;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  font-size: 16px;
+  margin: 4px 2px;
+  opacity: 0.6;
+  transition: 0.3s;
+  display: inline-block;
+  text-decoration: none;
+  cursor: pointer;
+}
